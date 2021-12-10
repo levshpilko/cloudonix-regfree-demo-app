@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cloudonix-regfree-demo",
+    "slug": "cloudonix-regfree-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cloudonix-regfree-demo"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397545463343",
+    "project_id": "cx-regfree-notifications",
+    "storage_bucket": "cx-regfree-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397545463343:android:c61e31d762d7d06e7bf0da",
+        "android_client_info": {
+          "package_name": "com.cloudonixregfreedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397545463343-f0gmtndk2lic4cfinau65ri5t7o15o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1iJj5T4Z05HsO1U4rVarYmEbHyA_NqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397545463343-f0gmtndk2lic4cfinau65ri5t7o15o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
