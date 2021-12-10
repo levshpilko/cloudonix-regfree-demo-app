@@ -33,7 +33,7 @@ public class CxModule extends ReactContextBaseJavaModule {
                     licenseCb.invoke();
                     cxClient.setConfiguration(new RegistrationData() {{
                         setServerUrl("sip4.staging.cloudonix.io");
-                        setDomain("rupin-android-regfree.cloudonix.net");
+                        setDomain("YOUR DOMAIN");
                         setTransportType(TransportType.TRANSPORT_TYPE_TLS);
                         setPort(443);
                     }});
