@@ -18,6 +18,7 @@ const { CxModule } = NativeModules;
 
 const LICENSE_KEY = 'insert sdk key here';
 const SERVER_URL = 'insert your node.js server url here';
+
 export default function App() {
 	const [isEndCall, setIsEndCall] = useState(false); // boolean flag to track if a call was ended
 	const [caller, setCaller] = useState({}); // caller data to display and use in dial method
